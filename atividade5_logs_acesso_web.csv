@@ -1,0 +1,501 @@
+id_log,timestamp,ip_address,user_id,session_id,url,method,status_code,response_time_ms,user_agent
+1,2024-11-09T15:06:51Z,59.124.141.202,anonymous,sess_31578,/login,POST,0,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+2,2024-09-11T11:47:45Z,184.211.35.188,-1,sess_76399,%2Fprodutos?ref=email,GET,301,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+3,2024/08/11 07:32,12.107.109.31,,sess_34407,/checkout,GET,404,68994,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+4,25/09/2024 06:51:25,186.254.130.2,471,sess_38990,/login?ref=email,post,200,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+5,2024-03-20T03:55:11Z,31.108.212.222,-1,sess_31631, /logout,,400,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+6,2024-07-03T20:37:53Z,10.205.205.169,anonymous,sess_14254,/perfil,DELETE,302,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+7,2024-05-21 18:56:35,80.221.179.26,NULL,sess_33765,/produtos%3Fid=123,DELETE,503,733,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+8,2024-04-25 12:16:40 +00:00,187.173.179.237,-1,sess_91975,,PUT,302,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+9,09/04/2024 22:25:21,119.218.252.122,NULL,sess_84443, /checkout?utm_source=google,Get,400,-1,curl/7.68.0
+10,1728621341,202.251.66.50,-1,sess_89551,/home%3Fref=email,POST,200,281,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+11,2024-06-06 16:00:19 GMT,65.255.80.195,NULL,sess_86680,/home?id=123,Get,403,2058,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+12,,136.13.195.117,-1,sess_59924,/logout?page=1&size=10,PUT,502,3240,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+13,2024-08-09 09:14:43 UTC,100.224.81.230,NULL,sess_91323,/logout?id=123  ,post,503,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+14,04/01/2024 03:07:43,214.238.255.53,,sess_64225,/home,post,500,91998,Mozilla/5.0 (Windows NT 10
+15,05/11/2024 15:12:22,221.150.108.243,,sess_63834,/perfil%3Futm_source=google,GET,302,82112,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+16,1719617151,133.227.198.99,NULL,sess_86463, /perfil?ref=email,post,503,68027,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+17,22/11/2024 04:16:01,44.2.139.174,-1,sess_90103,/login%3Futm_source=google,get,200,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+18,03/09/2024 16:00:23,137.190.206.149,,sess_89582,/produtos?page=1&size=10,Get,500,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+19,2024-01-29T08:05:22Z,46.131.15.81,106,sess_28501,%2Flogin?utm_source=google,,403,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+20,2024/05/16 22:50,64.111.69.232,,sess_84760,/logout?utm_source=google,PUT,502,2333,Mozilla/5.0 (Windows NT 10.0; 
+21,2024-01-23T15:51:34Z,30.200.153.251,NULL,sess_87581,%2Flogout?ref=email,,302,51423,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+22,2024-06-13 14:55:41 GMT,136.107.174.6,NULL,sess_97645,/carrinho?ref=email,,1000,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+23,13/02/2024 20:54:58,41.93.122.227,anonymous,sess_22432,/checkout,DELETE,400,-1,PostmanRuntime/7.28.4
+24,16/04/2024 07:31:26,178.5.250.149,68,sess_92309,/login?utm_source=google,GET,400,344,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+25,2024-12-14T20:19:28Z,51.5.116.66,NULL,sess_70612,,post,503,-1,curl/7.68.0
+26,2024/01/30 19:00,210.125.199.206,,sess_20840, /login?ref=email,post,500,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+27,2024-06-10 23:37:13,161.17.236.161,NULL,sess_67109,/home?utm_source=google,GET,401,1312,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+28,2024-11-14 12:24:12 UTC,43.125.183.218,anonymous,sess_56219,NULL,GET,503,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+29,2024-04-02 21:29:13 UTC,161.182.110.24,NULL,sess_10573,/home?utm_source=google,POST,500,1157,PostmanRuntime/7.28.4
+30,2024-03-05 01:19:33 EST,146.121.28.233,NULL,sess_48970,/perfil?ref=email,post,404,,curl/7.68.0
+31,2024-03-17T08:53:45Z,135.53.191.220,-1,sess_30553,/logout%3Fpage=1&size=10,DELETE,301,,curl/7.68.0
+32,15/09/2024 10:11:55,108.40.172.232,-1,sess_15376,,POST,502,-1,PostmanRuntime/7.28.4
+33,1733929252,73.58.166.189,-1,sess_84987,/carrinho?utm_source=google,get,999,79073,curl/7.68.0
+34,2024/06/29 19:44,86.39.31.130,,sess_97037,/carrinho?ref=email,post,404,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+35,25/05/2024 22:07:08,74.127.247.153,-1,sess_15051,/home?ref=email,get,401,-1,curl/7.68.0
+36,15/05/2024 23:54:57,174.174.215.169,anonymous,sess_25389,/carrinho?utm_source=google,DELETE,200,79517,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+37,2024-01-11 12:19:07 EST,40.251.75.174,anonymous,sess_57244,,post,503,1664,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+38,26/01/2024 01:21:18,75.180.182.160,NULL,sess_57648,NULL,Get,503,-1,PostmanRuntime/7.28.4
+39,1722447123,195.3.154.254,-1,sess_22013,/home,GET,201,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+40,22/03/2024 02:40:45,101.196.23.200,-1,sess_99345,/checkout?id=123  ,Get,OK,-1,PostmanRuntime/7.28.4
+41,2024-01-18T11:23:50Z,24.55.189.216,,sess_15729,/carrinho?ref=email,GET,302,,curl/7.68.0
+42,2024-01-22T05:58:00Z,144.229.86.242,671,sess_83347,/checkout,,403,78329,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+43,2024-03-10 23:00:34 UTC,48.150.95.191,anonymous,sess_67011,/perfil?ref=email,Get,200,,PostmanRuntime/7.28.4
+44,2024-11-02T13:26:15Z,133.47.242.114,NULL,sess_45733,/carrinho?utm_source=google,,400,,curl/7.68.0
+45,17/02/2024 10:21:51,51.142.5.242,anonymous,sess_86459,,Get,502,75590,PostmanRuntime/7.28.4
+46,2024-03-03 21:34:11 EST,38.124.69.69,-1,sess_74309,,DELETE,302,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+47,2024/02/02 06:32,134.167.253.129,251,sess_44799,%2Fapi%2Fv1%2Fusers?utm_source=google,post,404,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+48,2024-01-02 01:56:22 GMT,102.245.217.67,NULL,sess_88860,NULL,DELETE,200,3021,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+49,2024-05-08 08:11:02,NULL,NULL,sess_69757,/produtos?utm_source=google,DELETE,503,-1,
+50,2024-06-23 13:23:40,219.163.25.140,NULL,sess_34580, /carrinho?page=1&size=10,,403,62200,PostmanRuntime/7.28.4
+51,2024-05-22 04:13:13 +00:00,191.39.251.12,NULL,sess_29805,/carrinho,get,503,88035,
+52,08/03/2024 15:01:45,25.57.148.56,-1,sess_35393,,GET,404,,
+53,2024-03-19T04:06:25Z,206.102.235.29,anonymous,sess_41353,/carrinho?id=123,POST,404,2320,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+54,22/07/2024 01:11:14,92.173.11.108,,sess_42839,/logout?utm_source=google,PUT,301,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+55,2024-01-30 04:29:46 GMT,,anonymous,sess_82071,/logout?id=123,GET,201,591,PostmanRuntime/7.28.4
+56,2024-08-20 22:38:12 EST,205.96.117.195,,sess_12188,%2Fapi%2Fv1%2Fusers?utm_source=google,post,403,2720,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+57,2024-02-25 22:33:14,175.135.211.192,NULL,sess_92323,%2Fapi%2Fv1%2Fusers?id=123,PUT,400,573,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+58,2024-01-17 10:06:03 +00:00,199.186.126.58,,sess_41210,/home?utm_source=google,post,302,3823,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+59,2024-05-24 03:25:49 GMT,9.75.49.202,474,sess_45331,/logout?id=123,PUT,502,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+60,2024-10-16T23:30:05Z,96.194.55.117,-1,sess_68254,/api/v1/users?id=123,POST,302,4620,PostmanRunt
+61,2024-07-04T18:05:49Z,64.37.249.151,anonymous,sess_47686,%2Flogout?id=123,get,200,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+62,20/06/2024 18:12:59,0.0.0.0,anonymous,sess_58322,/home,PUT,404,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+63,1712167657,195.65.196.202,758,sess_25896,/login,GET,200,64436,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+64,2024-05-22 18:00:52 +00:00,13.100.69.128,anonymous,sess_97395,/carrinho,,404,4071,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+65,2024-12-23 12:32:08,166.205.156.112,anonymous,sess_68929,NULL,post,502,,Mozilla/5.0 (
+66,1720368954,170.235.144.188,-1,sess_32899,/api/v1/users?id=123,post,404,97348,PostmanRuntime/7.28.4
+67,02/03/2024 17:08:46,131.230.144.128,-1,sess_41294,,post,400,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+68,1724829082,157.102.31.179,NULL,sess_65808,/produtos?page=1&size=10,,201,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+69,2024-04-18T20:04:15Z,11.164.201.136,-1,sess_72579,/api/v1/users?page=1&size=10,post,301,-1,curl/7.68.0
+70,2024-09-15 03:07:11 +00:00,171.100.148.191,378,sess_69252,NULL,PUT,302,78868,curl/7.68.0
+71,2024-01-05T07:36:41Z,113.191.28.81,anonymous,sess_96529, /logout?ref=email,POST,302,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+72,2024-06-28 07:32:59 BRT,127.180.16.220,,sess_70218,/carrinho?id=123  ,GET,302,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+73,2024-04-05T19:16:12Z,97.235.2.207,-1,sess_51343,/api/v1/users?id=123,get,502,2243,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+74,2024-06-02T04:54:31Z,160.98.178.72,-1,sess_29694,/produtos?id=123,POST,503,3415,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+75,,136.157.39.26,NULL,sess_75468,/home?page=1&size=10,post,503,-1,PostmanRuntime/7.28.4
+76,2024-06-20 10:18:26 UTC,32.118.174.182,anonymous,sess_91655,/carrinho?page=1&size=10  ,get,,99201,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+77,2024-07-16T12:58:03Z,67.241.25.185,678,sess_64672,,POST,502,57101,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+78,2024-11-19 23:05:47 UTC,75.54.249.87,409,sess_60196,/home,get,201,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+79,1712769923,88.34.168.232,NULL,sess_82341,/produtos?ref=email  ,POST,404,4505,PostmanRuntime/7.28.4
+80,1717539070,165.52.144.41,-1,sess_89639,/perfil,POST,201,-1,PostmanRuntime/7.28.4
+81,2024/10/24 06:37,40.2.61.213,167,sess_24165,/logout%3Futm_source=google,PUT,500,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+82,2024-09-23 12:25:23 +00:00,192.168.1,,sess_88624,/produtos?page=1&size=10  ,,401,56670,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+83,1729583900,144.13.48.26,196,sess_77814,/api/v1/users?page=1&size=10,post,500,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+84,2024/01/07 23:08,102.89.201.123,854,sess_92540,/checkout?page=1&size=10,PUT,400,65842,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+85,2024-08-30 12:01:19 EST,51.252.218.182,anonymous,sess_49634, /home,,301,52602,PostmanRuntime/7.28.4
+86,2024-12-18 01:01:15 EST,,875,sess_12447,/logout?page=1&size=10,,301,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+87,2024-08-11T23:51:42Z,46.248.222.193,,sess_86143,/api/v1/users?page=1&size=10,POST,301,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+88,16/11/2024 05:49:53,6.244.20.71,,sess_56174,/logout?page=1&size=10,post,201,97544,PostmanRuntime/7.28.4
+89,11/02/2024 20:12:20,15.177.3.209,481,sess_74961,/logout?utm_source=google,get,503,89939,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+90,1726422326,3.166.183.19,NULL,sess_82410,/perfil?utm_source=google,PUT,401,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+91,2024-04-06T22:02:47Z,25.211.106.169,NULL,sess_24383,%2Fprodutos?id=123,,201,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+92,2024-01-06 10:46:01 GMT,37.72.121.67,anonymous,sess_73814,NULL,DELETE,503,1423,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+93,1727394106,221.157.226.190,NULL,sess_28222,,,502,66001,Mozilla/5.0 (Macint
+94,,42.123.27.210,NULL,sess_86213,/perfil?id=123,POST,200,96201,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+95,2024-02-17 21:02:58,78.38.129.7,558,sess_68686,%2Fhome?page=1&size=10,Get,503,80840,PostmanRuntime/7.28.4
+96,02/02/2024 09:36:38,3.107.65.247,NULL,sess_34603,/perfil?ref=email,DELETE,301,52843,Mozilla/5.0
+97,2024-05-30T12:00:04Z,32.120.172.94,anonymous,sess_84871,/perfil?page=1&size=10,,301,,curl/7.68.0
+98,20/12/2024 14:08:42,20.254.232.126,anonymous,sess_67403,/api/v1/users?id=123,,201,1065,curl/7.68.0
+99,2024-08-21 20:40:51 UTC,58.19.140.93,-1,sess_43149, /api/v1/users?utm_source=google,Get,201,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+100,17/12/2024 00:31:37,174.20.126.161,649,sess_55591,%2Flogout?utm_source=google,DELETE,201,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+101,17/01/2024 11:57:17,61.93.229.21,-1,sess_51444,,DELETE,403,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+102,2024-02-08T11:12:29Z,176.177.183.175,NULL,sess_54115,/checkout?utm_source=google,GET,500,94402,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+103,2024-09-26T17:51:37Z,35.54.16.190,anonymous,sess_28328,/home?utm_source=google,get,201,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+104,2024/12/08 15:34,6.159.218.105,496,sess_78395,NULL,PUT,301,69701,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+105,2024-07-31 15:05:07 EST,119.238.7.60,,sess_52768,/logout?id=123  ,get,200,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+106,2024-09-28T18:39:55Z,208.30.109.164,795,sess_44181,NULL,,502,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+107,25/05/2024 14:01:18,175.98.30.24,anonymous,sess_47802,/checkout?page=1&size=10,get,403,3054,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+108,2024-08-31 01:01:15 GMT,70.101.79.91,anonymous,sess_99473,/logout?utm_source=google,post,301,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+109,2024-05-12T03:40:04Z,7.70.14.98,anonymous,sess_23429,/checkout?ref=email  ,DELETE,200,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+110,2024/03/24 20:55,63.187.102.144,,sess_51413,/login?id=123,Get,503,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+111,1735112057,113.162.78.103,,sess_94037,%2Fapi%2Fv1%2Fusers?id=123,get,502,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+112,08/07/2024 18:14:52,172.170.87.131,531,sess_54048,/home?ref=email,,500,88398,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+113,2024-05-30T04:22:11Z,126.247.129.74,NULL,sess_84120, /login?utm_source=google,DELETE,1000,2322,Mozilla/5.0 (Linux; Android 
+114,18/09/2024 04:24:19,172.234.186.207,,sess_75121,/logout,post,400,3121,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+115,10/05/2024 00:29:10,91.101.222.12,anonymous,sess_17922,/checkout%3Fpage=1&size=10,get,404,59392,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+116,2024-02-23 22:30:18 UTC,15.111.67.96,,sess_99181,/perfil?page=1&size=10  ,get,301,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+117,2024-02-16T15:37:58Z,87.156.181.183,NULL,sess_69823,/produtos?page=1&size=10,DELETE,404,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+118,2024/03/08 04:59,154.106.201.221,,sess_72363,/login?id=123,get,503,-1,PostmanRuntime/7.28.4
+119,06/07/2024 03:05:10,32.8.179.2,,sess_27204,/carrinho?id=123,get,401,,curl/7.68.0
+120,2024-08-14 13:31:30 EST,54.162.135.56,,sess_93722, /logout?page=1&size=10,PUT,500,89840,PostmanRuntime/7.28.4
+121,25/06/2024 03:02:00,194.84.34.66,NULL,sess_78409,/login  ,Get,401,1784,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+122,2024-02-27T00:22:11Z,17.232.113.8,-1,sess_57363,/home?ref=email  ,DELETE,302,58531,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+123,2024-02-13 23:19:33 GMT,41.232.191.156,655,sess_78876,%2Fcarrinho?ref=email,GET,0,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+124,2024-02-13T05:48:07Z,72.177.92.63,NULL,sess_84741,/login?id=123,DELETE,401,97289,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+125,2024-11-13 00:12:10 UTC,135.29.222.222,-1,sess_47094,/produtos?ref=email,PUT,400,1007,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+126,2024-08-04T15:41:22Z,88.173.2.151,-1,sess_22709,/perfil?utm_source=google,,302,-1,PostmanRuntime/7.28.4
+127,2024/09/13 13:21,177.68.20.79,,sess_95367,,get,301,81915,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+128,2024-11-05 06:54:36 GMT,184.193.229.66,992,sess_67883,%2Flogin,post,404,2227,Mozilla/5.0 (Windows NT 10.0; 
+129,2024-08-11 14:41:09 -03:00,0.0.0.0,,sess_95605,/logout  ,post,404,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+130,2024-02-26T13:47:17Z,38.132.126.253,anonymous,sess_81641,/home?utm_source=google,get,ERROR,63166,Mozilla/5.0 (iPhone; CPU i
+131,,151.71.25.214,,sess_97586,NULL,post,201,73868,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+132,1710932401,130.178.58.95,,sess_49968, /carrinho?utm_source=google,Get,OK,4430,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+133,2024-04-18T13:41:38Z,52.137.37.211,,sess_93476,/login?utm_source=google  ,PUT,401,-1,curl/7.68.0
+134,,206.22.218.12,anonymous,sess_45698,/login%3Fid=123,DELETE,404,-1,PostmanRuntime/7.28.4
+135,2024-12-04 15:19:57 GMT,22.195.122.129,anonymous,sess_67234,,,400,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+136,2024-08-11 13:07:33 UTC,128.157.34.71,anonymous,sess_76309,/api/v1/users?page=1&size=10  ,get,502,82805,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+137,2024-12-17 18:11:05 BRT,57.81.62.81,577,sess_11874,/logout?id=123,PUT,200,-1,curl/7.68.0
+138,2024-08-02 14:59:50 -03:00,171.136.56.188,anonymous,sess_95184,/login?ref=email,post,502,1899,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+139,07/06/2024 11:28:41,171.230.204.239,anonymous,sess_66757,/login%3Fref=email,,200,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+140,24/06/2024 20:08:37,48.36.251.94,NULL,sess_85133,/logout,,404,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+141,2024-12-17 22:35:23 BRT,44.239.118.166,anonymous,sess_99859,/perfil?id=123,,403,3547,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+142,11/05/2024 07:03:12,146.122.123.211,21,sess_24220,/produtos,GET,400,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+143,2024-03-09T22:18:22Z,20.141.98.106,anonymous,sess_43154, /api/v1/users?ref=email,DELETE,404,,PostmanRuntime/7.28.4
+144,,159.221.126.169,-1,sess_85388,/api/v1/users,get,503,-1,
+145,,189.221.66.68,anonymous,sess_89004,/perfil?ref=email,PUT,403,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+146,29/02/2024 15:37:29,215.24.46.209,899,sess_27185,/logout?id=123  ,GET,502,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+147,2024-08-20 05:06:58 UTC,94.38.21.163,NULL,sess_60160,/carrinho%3Futm_source=google,get,301,1242,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+148,19/11/2024 07:38:13,74.96.67.99,NULL,sess_41533,/produtos?utm_source=google,GET,401,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+149,2024-02-01 04:56:18 +00:00,89.25.249.72,378,sess_88675,,GET,503,89852,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+150,2024-06-03 06:05:01 +00:00,172.89.120.174,,sess_26936,/logout?ref=email  ,DELETE,401,66859,Mozilla/5.0 (L
+151,2024-08-31T07:21:20Z,120.49.92.233,anonymous,sess_66097,/produtos%3Futm_source=google,DELETE,502,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+152,2024-03-12 02:22:03 BRT,213.113.127.146,anonymous,sess_30656,/logout,post,400,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+153,2024/02/05 04:38,29.56.75.253,NULL,sess_88571,/checkout  ,post,503,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+154,2024/12/10 05:11,168.166.45.12,NULL,sess_42955,/checkout?ref=email,DELETE,400,,PostmanRuntime/7.28.4
+155,2024-08-02 18:05:16 UTC,182.3.28.119,,sess_31646, /logout?ref=email,DELETE,404,53077,curl/7.68.0
+156,29/01/2024 19:58:13,11.7.22.151,45,sess_97241,/login?page=1&size=10  ,PUT,403,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+157,02/03/2024 15:10:35,8.123.148.71,anonymous,sess_93587,/checkout?page=1&size=10,get,401,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+158,12/04/2024 10:07:29,194.34.187.28,anonymous,sess_61889, /login?utm_source=google,post,403,2690,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+159,27/04/2024 22:14:28,216.202.139.133,,sess_21570,/home,PUT,400,73142,curl/7.68.0
+160,11/04/2024 14:41:08,70.35.145.37,anonymous,sess_50224,/checkout?id=123,,0,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+161,2024-01-09T19:49:12Z,172.97.78.43,NULL,sess_14317,%2Fprodutos?utm_source=google,PUT,200,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+162,,128.206.234.176,639,sess_16592,/logout,get,403,-1,PostmanRuntime/7.28.4
+163,16/12/2024 00:43:36,130.81.182.232,747,sess_79386,%2Fapi%2Fv1%2Fusers?utm_source=google,post,403,87412,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+164,2024-03-15 06:51:58 EST,209.81.249.63,NULL,sess_64115,NULL,get,302,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+165,2024-06-29T03:59:19Z,140.24.193.223,anonymous,sess_32125,/login  ,,502,-1,curl/7.68.0
+166,1704890639,160.184.42.134,anonymous,sess_91472,/api/v1/users%3Fref=email,DELETE,400,,PostmanRuntime/7.28.4
+167,05/10/2024 07:34:01,69.240.215.150,,sess_94594,NULL,DELETE,502,4524,PostmanRuntime/7.28.4
+168,15/01/2024 02:24:13,8.3.78.62,594,sess_57685,/carrinho?page=1&size=10,DELETE,403,1786,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+169,2024-03-31 02:10:31,153.218.247.48,36,sess_33977,/api/v1/users,DELETE,404,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+170,2024-01-08 00:44:00 BRT,193.40.237.97,NULL,sess_37861,/carrinho%3Futm_source=google,DELETE,302,4190,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+171,2024-09-09 09:27:39,15.231.5.35,,sess_79866,/carrinho%3Fid=123,GET,-1,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+172,2024-02-28 05:53:13 UTC,4.12.191.221,,sess_33324,%2Fperfil?id=123,PUT,401,96622,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+173,2024-01-22 05:05:14,89.148.84.136,,sess_31950,/login?ref=email  ,POST,201,3294,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+174,2024-08-27 23:34:26 BRT,46.163.49.86,-1,sess_62032,/perfil?page=1&size=10,DELETE,301,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+175,2024-06-22 06:41:54,93.101.39.156,NULL,sess_19733,/home?utm_source=google,post,200,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+176,07/09/2024 14:03:14,116.251.25.188,-1,sess_95858,/checkout?id=123  ,Get,400,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+177,2024-02-13 15:57:10 -03:00,114.124.70.141,-1,sess_13381,,PUT,0,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+178,2024-08-06 06:54:24 +00:00,153.20.186.8,NULL,sess_15433,/login?utm_source=google,,400,3898,Mozilla/5.0 (Linux; An
+179,2024-06-29T14:36:27Z,162.45.83.229,NULL,sess_17341,/logout,get,201,2028,curl/7.68.0
+180,1716216266,113.213.36.150,NULL,sess_26940,/perfil,GET,200,4665,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+181,2024-09-04 14:48:51,53.2.128.181,,sess_50020,/logout,,301,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+182,2024-10-28 20:44:11 +00:00,122.120.184.182,anonymous,sess_32891,/logout?page=1&size=10  ,DELETE,401,3881,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+183,2024-11-09T07:36:32Z,156.157.196.74,NULL,sess_44939,/carrinho?ref=email,DELETE,403,,curl/7.68.0
+184,20/08/2024 12:10:50,222.115.120.220,320,sess_61174,/carrinho%3Fid=123,Get,302,2223,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+185,2024/07/10 12:44,46.212.108.103,-1,sess_82955,/login%3Fpage=1&size=10,DELETE,200,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+186,2024-11-30 09:13:17 EST,20.53.239.87,-1,sess_44731,/perfil,get,201,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+187,2024-07-12 07:32:07 GMT,32.208.139.193,-1,sess_32759,/perfil?ref=email,,404,,PostmanRuntime/7.28.4
+188,1725983321,219.1.31.119,324,sess_44221, /api/v1/users?id=123,DELETE,404,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+189,2024-10-12 05:16:20 BRT,256.1.1.1,NULL,sess_63018, /perfil?page=1&size=10,Get,400,1694,PostmanRuntime/7.2
+190,2024-01-07T13:26:47Z,7.193.211.63,anonymous,sess_50568, /produtos?page=1&size=10,POST,404,4906,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+191,2024-05-16 14:05:22 +00:00,43.163.1.36,,sess_20668,/login?id=123,get,301,60817,curl/7.68.0
+192,2024/02/27 05:03,180.151.72.96,anonymous,sess_91065,/login?ref=email  ,,400,1352,PostmanRunti
+193,2024-05-18T04:16:25Z,126.86.126.181,-1,sess_65461,%2Fprodutos?utm_source=google,PUT,401,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+194,2024/12/23 13:13,156.87.117.8,NULL,sess_75393,/logout,DELETE,403,-1,
+195,2024-10-27T06:38:17Z,2.143.117.146,,sess_54695,/login%3Fid=123,post,503,90564,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+196,02/08/2024 06:22:19,5.248.167.217,,sess_21412,%2Fhome?id=123,PUT,503,-1,PostmanRuntime/7.28.4
+197,2024-01-12T04:54:17Z,,-1,sess_92995,/checkout?utm_source=google,DELETE,400,80843,PostmanRuntime/7.28.4
+198,2024/08/16 23:57,83.234.114.125,NULL,sess_83417,/api/v1/users?page=1&size=10,PUT,401,69034,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+199,27/01/2024 02:42:31,41.245.89.160,-1,sess_99869,/login%3Futm_source=google,DELETE,403,4076,Mozilla/5.0 (Maci
+200,2024-06-22 08:02:28,23.175.42.241,NULL,sess_28809, /login,,302,4461,PostmanRuntime/7.28.4
+201,07/11/2024 15:24:45,107.36.159.34,anonymous,sess_31964,/home?utm_source=google,post,403,-1,Mozilla/5.0 (Linux; Androi
+202,26/09/2024 15:12:28,90.96.111.178,520,sess_47598,/produtos,POST,403,,PostmanRuntime/7.28.4
+203,15/09/2024 11:18:18,108.220.27.171,186,sess_92635,/checkout?id=123,GET,503,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+204,30/07/2024 15:29:50,88.233.193.80,NULL,sess_49163,/api/v1/users,DELETE,500,-1,PostmanRuntime/7.28.4
+205,26/02/2024 03:57:03,81.190.105.61,843,sess_80432,/carrinho?page=1&size=10  ,DELETE,201,1695,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+206,2024-06-21 23:50:01 -03:00,5.221.70.205,anonymous,sess_11861,/login?ref=email,POST,201,70034,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+207,,117.232.127.14,-1,sess_46945,%2Fhome?ref=email,,401,1384,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+208,03/07/2024 16:39:13,96.92.135.136,-1,sess_88982,/produtos  ,get,401,-1,curl/7.68.0
+209,1735082240,76.152.221.65,NULL,sess_28924,/checkout,get,401,,PostmanRuntime/7.28.4
+210,1720275391,121.249.177.196,47,sess_99765,/perfil?ref=email,GET,502,77755,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+211,2024-01-23T23:08:58Z,abc.def.ghi.jkl,683,sess_70480,/logout%3Fid=123,,403,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+212,2024-06-01T00:47:31Z,191.44.197.227,NULL,sess_73102,/api/v1/users?page=1&size=10,get,500,58224,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+213,2024/02/16 11:43,131.35.177.92,anonymous,sess_24393,/api/v1/users%3Futm_source=google,Get,403,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+214,2024-05-02 12:16:26 BRT,95.160.61.179,424,sess_19404,%2Fcheckout?page=1&size=10,Get,301,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+215,2024-11-06 12:04:37 UTC,182.219.230.217,NULL,sess_83143,/login,get,502,91122,PostmanRuntime/7.28.4
+216,2024-04-24T01:22:10Z,53.199.93.47,NULL,sess_83845,/produtos?ref=email,DELETE,0,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+217,,24.217.124.120,699,sess_78703,/api/v1/users?utm_source=google,Get,,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+218,28/08/2024 06:41:47,159.148.85.197,-1,sess_50552, /produtos?id=123,GET,200,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+219,2024-03-06T09:49:33Z,178.195.105.192,NULL,sess_26688,/checkout%3Futm_source=google,POST,500,,curl/7.68.0
+220,10/12/2024 22:46:37,36.34.171.52,941,sess_23497,%2Fprodutos?page=1&size=10,POST,502,63703,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+221,2024-11-29 23:39:19 -03:00,192.168.1.1.1,anonymous,sess_52777,/perfil?utm_source=google,DELETE,404,,PostmanRuntime/7.28.4
+222,16/01/2024 07:31:23,171.55.102.40,NULL,sess_54951,NULL,post,201,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+223,07/05/2024 01:23:25,256.1.1.1,anonymous,sess_53222,/carrinho%3Futm_source=google,get,502,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+224,2024/09/15 07:32,19.167.61.71,anonymous,sess_67896,/logout?ref=email,POST,201,73071,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+225,26/03/2024 04:45:51,168.167.137.182,-1,sess_97347,%2Fhome?page=1&size=10,get,400,-1,PostmanRuntime/7.28.4
+226,2024/07/28 12:04,112.175.174.5,796,sess_86365,%2Fprodutos?utm_source=google,Get,500,,curl/7.68.0
+227,1720219692,149.145.44.40,anonymous,sess_14022,/login?ref=email,post,403,96233,curl/7.68.0
+228,2024/12/08 04:01,183.109.51.242,,sess_11495,/login%3Fref=email,Get,404,,PostmanRuntime/7.28.4
+229,08/05/2024 16:14:57,118.51.1.89,NULL,sess_74275,%2Fperfil?page=1&size=10,,401,75630,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+230,2024/05/08 23:38,70.217.253.192,,sess_96649,%2Fhome?utm_source=google,Get,200,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+231,2024-03-31 13:53:56 -03:00,127.24.16.145,-1,sess_16782,/perfil%3Fid=123,get,401,4993,Mozilla/5.0 (Windows NT 10.0
+232,2024/01/18 14:13,113.118.158.187,NULL,sess_41983,/login,GET,400,867,curl/7.68.0
+233,2024-07-12 15:04:33 UTC,4.179.150.33,-1,sess_93545,/perfil?page=1&size=10,POST,502,-1,curl/7.68.0
+234,2024-10-22 09:10:42 +00:00,81.229.18.187,,sess_28287,%2Fcheckout,,404,3198,PostmanRuntime/7.28.4
+235,2024-09-25 18:20:57 EST,213.158.8.166,-1,sess_90202,/logout,,503,1602,curl/7.68.0
+236,2024-12-19T18:42:13Z,115.4.92.99,anonymous,sess_41766,/carrinho?id=123,post,500,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+237,23/02/2024 02:52:30,213.229.207.216,anonymous,sess_19368,%2Fcarrinho,PUT,302,60229,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+238,2024-07-02 16:39:48 UTC,54.213.6.97,anonymous,sess_79450,%2Flogout?id=123,PUT,502,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+239,2024-08-26 02:12:59 -03:00,123.132.186.25,NULL,sess_51465,/checkout?ref=email,PUT,400,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+240,1730847825,27.52.57.81,anonymous,sess_72432,%2Fcheckout?page=1&size=10,post,404,68798,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+241,1706754408,156.103.107.18,-1,sess_39273,/perfil?ref=email,GET,404,83367,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+242,2024/06/25 12:12,148.77.125.77,NULL,sess_28141,/perfil?utm_source=google,post,401,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+243,,38.237.45.97,-1,sess_98043, /login?page=1&size=10,Get,404,81549,PostmanRuntime/7.28.4
+244,2024-04-20T20:30:01Z,72.240.227.193,,sess_64160,NULL,DELETE,502,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+245,1711851248,NULL,NULL,sess_41542,,post,401,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+246,2024-05-02 02:16:49,103.115.14.52,,sess_76202,/carrinho?ref=email,post,502,70208,curl/7.68.0
+247,1720884486,183.223.71.24,,sess_58062,/home,Get,401,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+248,2024-12-14 16:52:55 +00:00,192.168.1,NULL,sess_81352,%2Flogout?page=1&size=10,get,503,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+249,10/10/2024 09:24:02,39.7.120.242,anonymous,sess_50841,/home,get,503,4102,PostmanRuntime/7.
+250,2024-11-29 22:14:54 BRT,16.50.198.106,anonymous,sess_66561,%2Fcarrinho?page=1&size=10,post,400,602,curl/7.68.0
+251,12/07/2024 04:10:57,27.0.159.135,438,sess_14769, /login?ref=email,GET,403,69411,curl/7.68.0
+252,1731205272,211.194.68.231,NULL,sess_19514,/home?ref=email,,400,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+253,2024-01-29 05:58:43 GMT,135.99.177.69,NULL,sess_11833,/logout%3Fid=123,GET,301,4235,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+254,1719449987,25.129.173.60,,sess_96121,/checkout?id=123,POST,502,-1,PostmanRuntime/7.28.4
+255,1728526218,2.92.36.92,,sess_16233,/api/v1/users?page=1&size=10,,500,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+256,2024-01-24T10:48:03Z,35.142.32.60,-1,sess_48711,/checkout?id=123,PUT,301,66423,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+257,1714249098,174.118.246.165,NULL,sess_43671,%2Fcheckout,get,500,2929,
+258,2024-07-29 20:16:52,63.65.23.132,327,sess_53607,,,401,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+259,2024-08-26T15:10:06Z,74.131.240.147,,sess_84448,/produtos?id=123,,200,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+260,15/09/2024 22:17:58,125.106.245.76,NULL,sess_88495,/login?ref=email,GET,302,3235,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+261,2024-05-14 03:09:00 +00:00,NULL,-1,sess_37617,/carrinho%3Futm_source=google,PUT,503,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+262,05/07/2024 03:25:01,85.247.225.96,anonymous,sess_64884,,DELETE,201,62864,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+263,2024-03-17 08:53:41 +00:00,125.197.137.41,-1,sess_40151,/checkout?id=123,post,401,98529,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+264,2024-06-26T06:11:38Z,61.148.15.24,NULL,sess_91186,/logout?utm_source=google,post,404,94037,Mozilla/5.0 (Linux; Android 
+265,2024-01-21 18:26:29 +00:00,211.199.172.148,anonymous,sess_40541, /login?id=123,GET,503,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+266,04/10/2024 23:37:06,76.56.254.248,NULL,sess_66271,/perfil?page=1&size=10,PUT,503,93269,PostmanRuntime/7.28.4
+267,05/08/2024 18:37:06,60.210.126.79,782,sess_25560,%2Fhome?utm_source=google,post,500,3447,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+268,2024-12-21T05:35:53Z,198.60.85.218,-1,sess_91761,/api/v1/users?page=1&size=10,POST,403,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+269,13/10/2024 10:56:23,181.142.109.117,anonymous,sess_36634,/produtos,Get,200,58077,curl/7.68.0
+270,2024-12-29 03:17:47 GMT,abc.def.ghi.jkl,anonymous,sess_58443,/login?id=123,POST,403,52644,curl/7.68.0
+271,2024-09-25T23:10:11Z,85.156.78.117,,sess_45045, /perfil,PUT,401,92079,PostmanRuntime/7.28.4
+272,2024/11/19 10:17,214.236.124.245,anonymous,sess_18772,/home?utm_source=google,PUT,502,78191,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+273,2024-12-31 12:00:49 BRT,58.10.131.16,,sess_55900,/login?id=123,POST,201,94700,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+274,2024-01-01T14:07:09Z,177.239.52.113,,sess_52702,/home%3Fref=email,get,404,1298,PostmanRuntime/7.28.4
+275,18/11/2024 03:31:58,222.85.224.9,NULL,sess_50895,/checkout?id=123,DELETE,401,70249,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+276,1722577938,132.80.22.175,anonymous,sess_91311,/home?ref=email  ,POST,401,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+277,2024-01-16 22:39:55 -03:00,40.28.221.99,anonymous,sess_63208,/api/v1/users?utm_source=google  ,post,503,,PostmanRuntime/7.28.4
+278,2024-07-29 18:17:14 GMT,129.222.37.120,564,sess_57932,NULL,GET,404,1847,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+279,12/10/2024 20:35:24,35.209.56.81,123,sess_67732,/home?utm_source=google  ,,-1,52367,curl/7.68.0
+280,28/05/2024 02:08:49,150.222.88.239,NULL,sess_83572,/login,Get,403,52293,PostmanRuntime/7.28.4
+281,1706889930,194.228.185.20,-1,sess_36313,/logout,post,301,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+282,,41.57.101.241,anonymous,sess_21688,/login?utm_source=google  ,POST,403,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+283,13/05/2024 14:02:47,1.54.138.136,708,sess_31996,/logout?id=123  ,get,,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+284,2024-06-03T17:42:48Z,31.69.205.132,anonymous,sess_88836, /checkout?id=123,GET,500,4865,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+285,2024-09-17 01:34:07 GMT,183.12.174.9,567,sess_16320,NULL,DELETE,503,97229,curl/7.68.0
+286,2024-02-24T07:04:06Z,108.11.70.246,652,sess_31071,NULL,Get,301,,PostmanRuntime/7.28.4
+287,1729112112,abc.def.ghi.jkl,-1,sess_83400,,post,301,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+288,,184.61.214.101,anonymous,sess_77146,/produtos?page=1&size=10,post,400,82853,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+289,2024/06/29 01:33,145.165.97.204,,sess_26656,/checkout?id=123,PUT,500,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+290,1713750936,93.250.128.83,anonymous,sess_25541,/home%3Futm_source=google,DELETE,400,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+291,22/05/2024 04:43:40,140.63.88.4,-1,sess_60210,/api/v1/users?ref=email  ,PUT,502,59310,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+292,2024-07-31 17:15:05 EST,66.62.105.157,-1,sess_55139,/api/v1/users%3Fref=email,GET,301,4220,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+293,14/01/2024 13:08:36,35.197.146.69,,sess_57809,/checkout?utm_source=google,get,502,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+294,2024-03-04T16:27:53Z,220.25.217.109,anonymous,sess_43686,/logout?ref=email  ,PUT,201,661,Mozilla/5.0 (iPho
+295,2024-05-06 23:29:54 +00:00,256.1.1.1,-1,sess_68584, /logout?ref=email,post,302,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+296,11/11/2024 04:08:16,123.230.92.117,NULL,sess_57462,/logout?utm_source=google,POST,500,,Mozilla/5.0 (Window
+297,2024-08-09 01:14:45 -03:00,212.202.250.139,-1,sess_49024, /carrinho?id=123,get,503,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+298,2024/06/08 14:48,185.125.90.135,,sess_27144,NULL,post,201,96706,curl/7.68.0
+299,1723768113,195.222.110.184,425,sess_39468, /api/v1/users,post,502,1116,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+300,,abc.def.ghi.jkl,,sess_74792,/logout,Get,500,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+301,2024-11-14 15:43:29 +00:00,161.78.69.6,-1,sess_94515, /produtos?id=123,POST,301,76725,curl/7.68.0
+302,2024-06-13 15:20:37 GMT,197.21.203.114,101,sess_97005, /home?id=123,post,404,,PostmanRuntime/7.28.4
+303,2024-11-24T09:56:46Z,90.65.152.209,,sess_15881,/api/v1/users?id=123,,401,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+304,2024-06-16T07:27:29Z,128.227.108.65,,sess_60856,/api/v1/users,post,ERROR,-1,PostmanRuntime/7.28.4
+305,2024-02-17 08:00:30 -03:00,161.93.15.245,anonymous,sess_21185,/home%3Fref=email,Get,403,100000,PostmanRuntime/7.28.4
+306,2024-02-16 14:07:48 UTC,100.216.125.201,753,sess_38576, /carrinho?utm_source=google,Get,502,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+307,2024-07-13 15:13:20 BRT,195.47.28.170,,sess_78497,/checkout,,400,3411,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+308,2024-11-08 22:40:50 +00:00,61.54.202.46,anonymous,sess_53744,/login?utm_source=google,GET,201,72078,
+309,2024-11-29T12:12:24Z,14.183.39.100,266,sess_68370,/logout%3Fid=123,POST,503,,PostmanRuntime/7.28.4
+310,09/12/2024 20:15:38,161.83.162.149,-1,sess_61454,/logout?ref=email,GET,400,4243,Mozilla/5.0 (Li
+311,2024/11/05 12:38,181.93.244.3,,sess_85219, /checkout?page=1&size=10,POST,301,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+312,21/03/2024 02:15:27,20.184.255.124,,sess_89629,/produtos,post,502,2903,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+313,2024-07-05 10:35:38 UTC,93.66.165.143,503,sess_67301, /checkout?id=123,PUT,500,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+314,12/08/2024 16:39:31,90.209.153.125,,sess_63810,/perfil?ref=email,get,401,,curl/7.68.0
+315,2024-03-03 17:22:46 BRT,139.245.161.104,NULL,sess_55956,%2Fhome?utm_source=google,GET,200,50098,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+316,2024-05-13T08:31:27Z,208.218.192.50,anonymous,sess_93099, /perfil?ref=email,DELETE,302,79111,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+317,2024-04-27 06:30:36 EST,178.220.87.129,-1,sess_19734,/api/v1/users?id=123,,500,-1,Mozilla/5.0 (iP
+318,2024-05-28 00:20:58 BRT,193.213.13.160,-1,sess_65976,/carrinho,post,404,65482,Mozilla/5.0 (Linux; Android
+319,2024-06-11 18:07:38 +00:00,125.118.199.112,,sess_90477,%2Flogout,,500,-1,PostmanRuntime/7.28.4
+320,05/05/2024 03:51:40,68.199.33.236,,sess_83988,/api/v1/users?page=1&size=10,get,404,65532,PostmanRuntime/7.28.4
+321,16/09/2024 08:32:29,19.41.240.86,anonymous,sess_87676, /checkout?page=1&size=10,GET,200,499,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+322,12/08/2024 07:24:20,256.1.1.1,,sess_46339,/perfil?page=1&size=10,PUT,404,,curl/7.68.0
+323,29/01/2024 13:21:15,183.188.241.81,-1,sess_97889,/home,PUT,201,4879,curl/7.68.0
+324,2024-11-18T10:40:30Z,200.243.97.120,anonymous,sess_42446,,,503,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+325,18/10/2024 15:42:36,86.5.28.176,NULL,sess_46364,/api/v1/users?id=123,PUT,301,232,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+326,29/12/2024 05:44:09,41.176.148.99,244,sess_53590, /perfil?id=123,Get,201,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+327,14/08/2024 05:17:51,0.0.0.0,687,sess_76325,/perfil?id=123,post,500,,PostmanRuntime/7.28.4
+328,2024/09/01 04:27,9.232.12.90,,sess_15956,/login,PUT,301,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+329,2024/01/15 05:30,146.79.57.74,-1,sess_32367,/perfil?id=123,POST,200,,curl/7.68.0
+330,2024-04-20T01:26:35Z,221.217.63.109,,sess_36076,/login?ref=email,Get,1000,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+331,04/05/2024 23:58:48,1.163.226.124,,sess_56372,/home?utm_source=google,post,500,4123,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+332,15/06/2024 16:28:09,194.184.241.162,153,sess_78995,/home?page=1&size=10,POST,999,711,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+333,04/06/2024 18:15:07,31.219.58.23,NULL,sess_92534,/login?ref=email,get,999,-1,Mozilla/5.0 (Window
+334,2024-06-03 01:41:35 +00:00,6.207.19.238,anonymous,sess_50654,/perfil,Get,503,,PostmanRuntime/7.28.4
+335,2024-07-25 09:31:08 EST,198.49.248.10,,sess_40895, /api/v1/users?id=123,get,503,-1,PostmanRuntime/7.28.4
+336,2024-11-18 22:26:25 BRT,198.20.17.67,,sess_87555, /home?utm_source=google,Get,301,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+337,2024/08/12 01:36,128.7.59.228,anonymous,sess_79901,/produtos%3Fpage=1&size=10,DELETE,500,2418,PostmanRuntime/7.28.4
+338,2024-01-28 03:24:16 GMT,40.189.224.60,,sess_55767,/checkout?ref=email,,500,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+339,2024-10-26T11:59:31Z,80.250.143.94,-1,sess_17854,/logout?id=123,DELETE,201,2769,Mozilla/5.0 (Linux
+340,2024-02-12 08:53:58 EST,NULL,341,sess_44722,/perfil?id=123,Get,401,,curl/7.68.0
+341,2024-11-01 09:46:23 GMT,147.58.112.239,anonymous,sess_83099,%2Fhome?utm_source=google,,301,,curl/7.68.0
+342,2024-10-31 12:59:20 BRT,210.243.213.1,anonymous,sess_46872,/produtos?utm_source=google,get,-1,3576,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+343,2024-06-15T11:21:24Z,111.78.45.54,NULL,sess_26106,/api/v1/users?utm_source=google,GET,401,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+344,2024-07-07T12:57:34Z,71.88.6.113,anonymous,sess_19413,/carrinho?ref=email,get,ERROR,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+345,07/05/2024 04:26:30,105.64.229.115,anonymous,sess_67536,/perfil%3Fref=email,post,500,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+346,2024-12-27T14:48:18Z,75.137.99.202,,sess_64667,/logout?utm_source=google  ,,403,-1,PostmanRuntime/7.28.4
+347,2024-01-03T21:21:14Z,166.107.95.9,196,sess_62013,/produtos%3Fpage=1&size=10,,200,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+348,2024-09-30T07:12:12Z,171.49.8.27,anonymous,sess_46640,/home?page=1&size=10,PUT,201,-1,Mozilla/5.0 (Macintos
+349,2024/12/08 07:36,63.133.44.221,-1,sess_21070, /home?ref=email,GET,301,96905,
+350,1710352721,127.67.74.239,NULL,sess_23731,NULL,POST,302,52825,Mozilla/5.0 (Macintosh; In
+351,2024-02-09T10:55:30Z,167.9.202.35,-1,sess_78610,%2Fprodutos?id=123,,301,84797,
+352,1727691995,208.83.58.75,anonymous,sess_39626,/logout?page=1&size=10,,400,1629,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+353,1710910683,101.90.203.204,anonymous,sess_10953,/carrinho?utm_source=google,post,404,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+354,2024-09-29 03:56:21 UTC,54.88.69.148,,sess_52988,/perfil?id=123,DELETE,400,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+355,24/07/2024 09:23:38,0.0.0.0,-1,sess_32767,/perfil?ref=email,Get,500,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+356,27/11/2024 00:17:53,93.19.6.224,anonymous,sess_70918,%2Fhome,DELETE,301,788,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+357,2024-12-27 16:00:18 UTC,194.191.215.149,NULL,sess_12409,/produtos?id=123,Get,OK,-1,Mozilla/5.0 (Macintosh;
+358,2024-03-30 12:03:43 +00:00,191.141.66.195,anonymous,sess_39716,/checkout?id=123,get,500,1289,Mozilla/5.0 
+359,02/03/2024 19:50:37,65.23.171.196,-1,sess_97277,%2Fapi%2Fv1%2Fusers?id=123,GET,,77070,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+360,2024-08-01 07:23:38 GMT,62.185.93.68,,sess_95479, /home?page=1&size=10,Get,201,76008,
+361,2024/05/30 18:10,74.41.154.149,NULL,sess_71711,/produtos?ref=email,PUT,404,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+362,2024-09-26T14:58:33Z,135.59.205.209,-1,sess_42672,NULL,post,201,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+363,,107.225.111.20,,sess_68152,/produtos%3Fref=email,get,200,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+364,1706480550,2.62.46.239,anonymous,sess_21709,/logout?id=123,DELETE,200,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+365,2024-02-16T21:33:40Z,8.125.162.121,anonymous,sess_56878,/login?utm_source=google,POST,503,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+366,2024-08-12 17:52:09 EST,223.143.105.70,,sess_49709,/produtos?id=123,,400,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+367,05/03/2024 07:53:03,76.64.37.204,anonymous,sess_77005,/perfil?ref=email,post,401,-1,PostmanRuntime/7.28.4
+368,03/02/2024 15:18:27,60.50.221.193,NULL,sess_86085,/api/v1/users?id=123,post,400,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+369,2024-02-23T07:41:43Z,203.123.53.194,701,sess_75059,%2Fhome?ref=email,post,403,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+370,2024-06-14 20:54:17 BRT,128.123.121.69,,sess_58643,/logout?page=1&size=10,,ERROR,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+371,2024-05-03T02:42:51Z,82.24.130.252,-1,sess_38084,/logout?id=123,POST,502,86504,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+372,2024-07-02T05:36:01Z,91.16.179.124,-1,sess_30075,/produtos,PUT,500,,PostmanRuntime/7.28.4
+373,2024-03-29 09:04:27 BRT,221.137.18.208,anonymous,sess_33265,/logout  ,GET,500,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+374,07/12/2024 03:29:59,142.76.82.54,248,sess_34297,/api/v1/users?ref=email,PUT,302,72546,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+375,2024-12-24 03:16:05 UTC,168.253.96.37,NULL,sess_95269,/logout?page=1&size=10  ,get,201,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+376,2024-08-12 19:15:57 -03:00,131.233.33.159,-1,sess_47681,/carrinho?utm_source=google,post,301,2713,curl/7.68.0
+377,1734388291,58.202.151.172,,sess_74036,%2Fcheckout?ref=email,,500,825,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+378,2024-06-13 03:06:42 BRT,13.54.15.122,,sess_58884,/home%3Fpage=1&size=10,Get,400,4313,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+379,2024/03/05 05:14,202.127.164.227,anonymous,sess_17763,%2Fperfil?page=1&size=10,POST,200,73151,curl/7.68.0
+380,2024/03/04 07:07,36.192.27.133,-1,sess_88126,/checkout?ref=email,POST,201,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+381,2024-05-06T17:00:12Z,113.118.63.25,,sess_68377,%2Fhome?utm_source=google,Get,401,2575,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+382,2024/01/08 00:20,130.66.104.235,-1,sess_23253,/produtos,PUT,302,4249,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+383,2024-09-08 15:37:35 EST,125.181.112.119,NULL,sess_65858,/perfil?id=123,DELETE,200,51057,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+384,01/02/2024 20:56:42,60.46.51.147,808,sess_66459,NULL,post,302,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+385,07/04/2024 08:43:03,120.4.110.125,,sess_13602,/login%3Fid=123,PUT,200,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+386,,77.220.138.239,,sess_29324,/api/v1/users?utm_source=google,Get,301,4724,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+387,2024-08-13 19:40:07 UTC,41.17.176.123,-1,sess_12974,/checkout?utm_source=google  ,post,OK,87248,curl/7.68.0
+388,,191.40.228.68,,sess_14406,/api/v1/users?utm_source=google,post,401,77513,
+389,2024-07-20T20:31:51Z,63.18.12.19,NULL,sess_92270,/produtos%3Futm_source=google,post,500,75401,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+390,2024-05-19 13:22:19 +00:00,4.20.150.10,NULL,sess_64046,/perfil?utm_source=google,,302,97959,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+391,2024/05/24 17:37,35.161.227.109,62,sess_35220,/home?ref=email  ,POST,500,928,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+392,09/07/2024 01:35:43,6.157.123.28,347,sess_67565,/produtos?ref=email,Get,404,97299,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+393,1708563764,64.62.234.103,484,sess_31254,NULL,POST,400,68223,curl/7.68.0
+394,2024-11-25 16:38:57 EST,22.116.94.131,917,sess_21536,/checkout?ref=email  ,get,503,,curl/7.68.0
+395,2024/10/21 02:45,136.156.10.228,-1,sess_96579,/perfil?ref=email,get,302,-1,curl/7.68.0
+396,1726002101,171.244.214.206,-1,sess_71606,%2Fcheckout?ref=email,post,301,2882,curl/7.68.0
+397,02/10/2024 18:28:19,109.204.29.178,626,sess_87113,/produtos,post,400,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+398,11/09/2024 00:33:50,82.59.13.161,anonymous,sess_37860,/login?ref=email,get,404,3921,Mozilla/5.0 (iPhone; CPU
+399,2024-08-27 01:08:23 BRT,,NULL,sess_43560,/perfil?id=123  ,post,401,74261,PostmanRuntime/7.28.4
+400,16/05/2024 23:35:17,172.242.199.242,anonymous,sess_37593,/checkout?utm_source=google  ,PUT,999,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+401,2024-03-23 15:59:46 -03:00,179.73.243.100,NULL,sess_98113,,get,301,3502,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+402,2024-11-08 17:01:50 BRT,175.156.135.139,-1,sess_47417,/checkout?utm_source=google,,403,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+403,2024-08-27 21:33:16 UTC,74.33.57.100,anonymous,sess_86276,/api/v1/users%3Fid=123,,401,-1,Mozilla/5.0 (Windows NT 10.0;
+404,06/08/2024 19:30:33,54.27.244.172,48,sess_78666,/produtos?page=1&size=10,get,502,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+405,1723244145,73.50.1.24,anonymous,sess_98177,/api/v1/users  ,POST,301,69695,Mozilla/5.0 
+406,2024/10/04 04:35,92.178.49.251,,sess_13603,%2Fcheckout?page=1&size=10,GET,502,78326,PostmanRuntime/7.28.4
+407,2024-10-20T09:52:12Z,92.146.81.136,NULL,sess_60450, /checkout?ref=email,DELETE,500,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+408,1723924208,148.104.38.103,NULL,sess_16105,/api/v1/users?utm_source=google,Get,502,-1,PostmanRuntime/7.28.4
+409,2024-12-19T14:09:25Z,125.123.137.221,609,sess_32474,/login?ref=email,,404,4420,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+410,2024-12-26T05:38:24Z,81.93.144.26,NULL,sess_73711,/checkout?id=123  ,GET,400,175,PostmanRuntime/7.28.4
+411,1708643048,202.127.233.15,,sess_65356,%2Fapi%2Fv1%2Fusers?ref=email,POST,403,-1,Mozilla/5.0 (Win
+412,2024-02-02T21:05:01Z,95.202.226.216,231,sess_38691,/logout?id=123  ,POST,404,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+413,2024-07-31 00:51:31 UTC,181.227.109.117,,sess_88061,/logout?id=123,GET,400,61259,Mozilla/5.0 (Macintosh; Int
+414,2024-03-21 05:46:43 GMT,256.1.1.1,-1,sess_59973,/api/v1/users%3Futm_source=google,Get,200,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+415,2024-06-23 17:46:02 EST,17.15.16.245,NULL,sess_16893, /produtos?utm_source=google,POST,502,90058,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+416,2024/07/26 19:49,204.253.248.156,anonymous,sess_16512,,post,401,3878,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+417,2024-05-13T01:24:37Z,107.56.251.87,NULL,sess_23879, /carrinho?ref=email,POST,400,4611,
+418,2024/02/08 18:31,126.21.87.103,-1,sess_59993,/api/v1/users?id=123,get,400,,curl/7.68.0
+419,2024-03-15T23:25:31Z,16.177.22.17,337,sess_39796,/logout  ,PUT,400,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+420,2024-10-15 21:32:07 GMT,2.227.195.169,552,sess_67558,/home?id=123,POST,302,73589,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+421,2024-11-29 14:25:26 BRT,abc.def.ghi.jkl,anonymous,sess_20949,/api/v1/users?id=123,,201,3755,PostmanRuntime/7.28.4
+422,2024-01-03 14:58:30 +00:00,95.185.233.112,-1,sess_91937,/login?ref=email,GET,404,1085,curl/7.68.0
+423,2024-03-31T17:48:14Z,53.5.77.29,,sess_69306,/carrinho?utm_source=google  ,DELETE,404,2306,curl/7.68.0
+424,1734416557,177.238.200.152,-1,sess_80713,/home?id=123,PUT,403,,Mozilla/5.
+425,1727932162,256.1.1.1,anonymous,sess_95056, /carrinho?id=123,Get,404,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+426,14/11/2024 03:20:07,20.223.211.39,anonymous,sess_55510,/login?page=1&size=10,GET,401,74622,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+427,2024-11-12 04:11:20 EST,999.999.999.999,-1,sess_45157,/home,,503,4588,curl/7.68.0
+428,2024-05-27T03:48:03Z,83.149.147.246,,sess_83867, /checkout?id=123,get,302,92605,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+429,2024-11-17 15:56:02 -03:00,175.125.240.96,639,sess_47306,/perfil%3Fref=email,GET,401,4552,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+430,1733088961,95.58.96.2,703,sess_52027,/home%3Fid=123,post,401,,
+431,24/05/2024 05:31:19,129.166.1.114,NULL,sess_51252,/checkout?page=1&size=10,PUT,401,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+432,09/05/2024 14:05:05,173.176.6.185,371,sess_37297,/produtos  ,POST,401,768,Mozilla/5.
+433,2024-11-19 01:17:47 GMT,155.108.110.206,,sess_71973,/login,Get,502,,curl/7.68.0
+434,22/01/2024 18:59:09,155.24.192.251,NULL,sess_64103,/checkout%3Fref=email,,400,63342,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+435,,192.168.1.1.1,anonymous,sess_61035,/perfil?page=1&size=10,DELETE,401,-1,PostmanRuntime/7.28.4
+436,1730463806,194.163.55.235,anonymous,sess_40501,/produtos,,302,1974,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+437,17/04/2024 07:52:14,62.53.197.2,,sess_52519, /home,PUT,400,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+438,10/08/2024 12:27:32,167.78.199.11,,sess_70831, /api/v1/users?ref=email,Get,302,3395,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+439,1712693033,38.103.97.227,875,sess_83956,/logout?id=123,PUT,404,91346,Mozilla/5.0 (iPhone; C
+440,2024/01/02 18:32,106.96.206.118,,sess_76255,%2Fprodutos?ref=email,Get,1000,3278,
+441,2024-03-24 11:10:34 BRT,6.216.38.174,-1,sess_27585,/carrinho?utm_source=google,,404,78,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+442,15/05/2024 17:46:00,186.132.131.233,anonymous,sess_82218,/home%3Futm_source=google,DELETE,403,85336,PostmanRuntime/7.28.4
+443,2024-03-10 12:03:11,130.15.216.181,anonymous,sess_49012,,,400,1833,curl/7.68.0
+444,2024/12/25 06:28,86.123.224.28,anonymous,sess_78928,/logout?id=123,POST,401,3996,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+445,,123.173.198.252,NULL,sess_72976,/perfil?utm_source=google,POST,500,,PostmanRuntime/7.28.4
+446,2024-11-11 15:26:27 UTC,4.225.140.184,anonymous,sess_43169,/home?id=123,,403,57657,curl/7.68.0
+447,2024-06-24T20:08:20Z,68.171.216.103,,sess_89971,/carrinho  ,,403,-1,
+448,2024-06-09 08:06:14 +00:00,60.208.111.254,-1,sess_27689,/checkout  ,Get,401,77735,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+449,14/02/2024 01:14:23,142.26.159.52,503,sess_50030,/carrinho?ref=email,DELETE,200,3276,PostmanRuntime/7.28.4
+450,2024-05-26T12:40:52Z,73.18.42.2,-1,sess_23943,/login?ref=email,post,400,2046,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+451,2024/05/17 12:08,221.80.2.234,NULL,sess_33710,/carrinho?utm_source=google  ,,302,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+452,2024-07-10 12:36:56,161.206.33.222,anonymous,sess_22216,/checkout?utm_source=google,PUT,200,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+453,2024-05-11T07:19:53Z,106.173.71.235,NULL,sess_17978,/api/v1/users?page=1&size=10,,400,55353,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+454,,138.255.175.92,-1,sess_74689,,PUT,201,,curl/7.68.0
+455,2024-03-25 07:03:51 EST,71.118.10.234,,sess_92205,NULL,,400,,PostmanRuntime/7.28.4
+456,07/06/2024 11:43:29,128.144.27.76,anonymous,sess_69561,/carrinho?utm_source=google  ,Get,502,,PostmanRuntime/7.28.4
+457,2024-01-06T13:28:40Z,999.999.999.999,-1,sess_67972,NULL,PUT,302,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+458,04/08/2024 11:32:22,222.92.145.133,607,sess_10231,/api/v1/users?utm_source=google,POST,500,-1,PostmanRuntime/7.28.4
+459,2024-06-28 03:41:09 EST,68.140.28.184,anonymous,sess_13516,/home%3Fref=email,DELETE,302,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+460,2024-12-01 08:54:20 +00:00,177.63.79.134,168,sess_93515,/produtos?id=123,get,201,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+461,10/10/2024 16:37:13,14.249.29.95,877,sess_68189,/home,GET,301,,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+462,2024/05/10 22:42,110.171.231.40,anonymous,sess_89477, /home?utm_source=google,GET,502,78896,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+463,29/11/2024 06:39:37,100.55.153.93,NULL,sess_24107,,,502,,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+464,2024-01-10 03:26:51 GMT,148.160.84.124,NULL,sess_68501,/logout?id=123,post,302,54631,curl/7.68.0
+465,06/12/2024 06:41:19,17.216.48.220,anonymous,sess_57287,/home?page=1&size=10,GET,200,82683,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+466,2024/07/01 16:42,197.2.179.31,,sess_52675,/checkout,GET,403,1593,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+467,2024-07-15T19:13:10Z,212.85.254.74,anonymous,sess_34550,,,201,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+468,2024-04-15T17:31:08Z,115.98.49.80,NULL,sess_42911,%2Fperfil?id=123,Get,401,99791,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+469,1728561636,115.38.181.116,,sess_97262,/login,,503,,Mozilla/5.0 (
+470,08/04/2024 02:41:34,123.181.53.71,NULL,sess_64296,/login?id=123  ,Get,503,3093,PostmanRuntime/7.28.4
+471,2024-04-30 08:00:49,168.190.175.117,NULL,sess_70481,/api/v1/users%3Fref=email,Get,404,,curl/7.68.0
+472,2024-06-03 02:48:03 GMT,158.10.77.62,250,sess_90210, /perfil?ref=email,PUT,404,201,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+473,2024-08-24 07:53:53 EST,76.84.0.244,-1,sess_19214,%2Flogin?page=1&size=10,GET,503,-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+474,2024-01-26T13:25:07Z,217.235.29.85,591,sess_45283,/produtos?id=123,,403,-1,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+475,14/11/2024 12:43:03,212.35.76.39,-1,sess_38703,/home  ,,400,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+476,14/11/2024 12:33:47,46.228.129.236,,sess_40714,%2Fhome?id=123,,401,-1,
+477,2024-04-09 06:24:28 EST,17.167.195.115,-1,sess_18668,%2Fperfil?id=123,PUT,403,2537,PostmanRuntime/7.28.4
+478,2024-06-15T01:36:17Z,201.110.54.96,-1,sess_63518,NULL,POST,201,523,curl/7.68.0
+479,2024-07-14 18:51:01,13.155.221.188,NULL,sess_88436, /perfil?id=123,POST,502,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+480,,203.27.10.160,anonymous,sess_98887,/home%3Fref=email,POST,400,55290,PostmanRuntime/7.28.4
+481,2024-02-19T03:30:48Z,72.83.1.105,anonymous,sess_16573, /home?utm_source=google,post,400,66708,Mozilla/5.0 (Linux; Android 11; SM-G991B)
+482,2024-12-25 10:44:30 UTC,192.168.1.1.1,,sess_20946, /api/v1/users?id=123,Get,401,86594,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+483,08/11/2024 09:40:59,26.138.177.222,,sess_33743,%2Fapi%2Fv1%2Fusers?id=123,GET,301,,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+484,2024-03-15T14:58:48Z,137.167.156.218,,sess_65396,/carrinho?page=1&size=10  ,post,400,-1,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+485,2024-05-03 16:40:00,87.244.207.155,284,sess_98106,/api/v1/users?id=123,post,302,63420,Mozilla/5.0 (iPh
+486,1714807760,184.112.75.72,NULL,sess_28972,%2Fprodutos?page=1&size=10,,403,,curl/7.68.0
+487,2024-07-10 00:00:26 BRT,198.166.22.229,-1,sess_32372,/perfil?id=123,PUT,301,-1,curl/7.68.0
+488,1712461648,41.184.237.186,anonymous,sess_12551,/home?utm_source=google,PUT,301,,PostmanRuntime/7.28.4
+489,2024-08-23 11:54:01,35.230.12.253,,sess_49418,,,401,95741,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+490,2024-08-13 18:37:34 -03:00,,-1,sess_34158, /produtos?page=1&size=10,DELETE,502,71633,PostmanRuntime/7.28.4
+491,2024-11-26 15:50:48 -03:00,30.81.167.238,,sess_32155,%2Fcarrinho?id=123,DELETE,403,-1,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)
+492,16/07/2024 03:13:33,97.22.221.146,,sess_89326,/perfil?utm_source=google,Get,500,,curl/7.68.0
+493,25/10/2024 16:46:24,130.191.253.204,818,sess_17501,/checkout?ref=email  ,GET,502,92686,
+494,2024-10-24 12:39:19,141.0.196.196,-1,sess_18990,/produtos?id=123,get,301,96136,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+495,,74.133.139.54,anonymous,sess_27607,/produtos?page=1&size=10,,403,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+496,15/09/2024 01:51:19,62.23.240.146,anonymous,sess_53181, /login,get,500,1005,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+497,2024-08-29 08:29:10 +00:00,59.53.62.41,anonymous,sess_56767,/logout?utm_source=google,DELETE,503,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+498,2024/01/09 09:11,81.47.40.137,-1,sess_31857,/home?ref=email,get,401,,Mozilla/5.0 (Linux; Android 
+499,2024-10-21 11:14:06,18.235.92.194,332,sess_39557,/login?page=1&size=10,GET,503,,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+500,2024-10-13 02:53:38 GMT,194.141.198.158,397,sess_40961,,,404,-1,Mozilla/5.0 (iPhone; CPU iPh
